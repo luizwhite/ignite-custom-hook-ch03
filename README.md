@@ -1,11 +1,12 @@
 # Ignite ReactJS - Challenge 03
-* Add new product to the cart
-* Remove a product from cart
-* Change product quantity from cart
-* Calculation of the subtotal and total cart prices
-* Inventory validation
-* Display of error messages
-* Among others..
+* Add new product to the cart - [`src/pages/Home/index.tsx`](https://github.com/luizwhite/ignite-customhook-ch03/blob/master/src/pages/Home/index.tsx#L51-L67) and [`src/hooks/useCart.tsx`](https://github.com/luizwhite/ignite-customhook-ch03/blob/master/src/hooks/useCart.tsx#L38-L78) → ✨ Done!
+* Render each product quantity added to cart in Home Page - [`src/pages/Home/index.tsx`](https://github.com/luizwhite/ignite-customhook-ch03/blob/master/src/pages/Home/index.tsx#L26-L34) → ✨ Done!
+* Render the amount of products added to cart in Header Component - [`src/components/Header/index.tsx#L10-L23`](https://github.com/luizwhite/ignite-customhook-ch03/blob/master/src/components/Header/index.tsx#L10-L23) → ✨ Done!
+* Remove a product from cart - [`src/pages/Cart/index.tsx`](https://github.com/luizwhite/ignite-customhook-ch03/blob/master/src/pages/Cart/index.tsx#L47-L49) and [`src/hooks/useCart.tsx`](https://github.com/luizwhite/ignite-customhook-ch03/blob/master/src/hooks/useCart.tsx#L87-L96) → ✨ Done!
+* Change product quantity from cart - [`src/pages/Cart/index.tsx`](https://github.com/luizwhite/ignite-customhook-ch03/blob/master/src/pages/Cart/index.tsx#L33-L107) and [`src/hooks/useCart.tsx`](https://github.com/luizwhite/ignite-customhook-ch03/blob/master/src/hooks/useCart.tsx#L106-L133) → ✨ Done!
+* Calculation of the subtotal and total cart prices - [`src/pages/Cart/index.tsx`](https://github.com/luizwhite/ignite-customhook-ch03/blob/master/src/pages/Cart/index.tsx#L22-L31) → ✨ Done!
+* Inventory validation - [`src/hooks/useCart.tsx` _#1_](https://github.com/luizwhite/ignite-customhook-ch03/blob/master/src/hooks/useCart.tsx#L62-L68) and [`src/hooks/useCart.tsx` _#2_](https://github.com/luizwhite/ignite-customhook-ch03/blob/master/src/hooks/useCart.tsx#L114-L121) → ✨ Done!
+* Display of error messages - [`src/hooks/useCart.tsx` _#1_](https://github.com/luizwhite/ignite-customhook-ch03/blob/master/src/hooks/useCart.tsx#L65-L68), [`src/hooks/useCart.tsx` _#2_](https://github.com/luizwhite/ignite-customhook-ch03/blob/master/src/hooks/useCart.tsx#L79-L82), [`src/hooks/useCart.tsx` _#3_](https://github.com/luizwhite/ignite-customhook-ch03/blob/master/src/hooks/useCart.tsx#L95-L98), [`src/hooks/useCart.tsx` _#4_](https://github.com/luizwhite/ignite-customhook-ch03/blob/master/src/hooks/useCart.tsx#L118-L121) and [`src/hooks/useCart.tsx` _#5_](https://github.com/luizwhite/ignite-customhook-ch03/blob/master/src/hooks/useCart.tsx#L132-L135) → ✨ Done!
 
 ---
 
